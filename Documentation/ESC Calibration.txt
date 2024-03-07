@@ -1,0 +1,10 @@
+#1 ESC Calibration mode -> Flight mode
+#2 Manual ESC Calibration
+#3 Upload calibration code -> upload multiwii code
+#4 Insert code to calibrate on startup
+
+Flight not starting
+ -> Throttles not being sent through multiwwi
+Only 1 joystick
+(Compass)
+(No switches for flight modes)
